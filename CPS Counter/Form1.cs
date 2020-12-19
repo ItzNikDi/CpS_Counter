@@ -60,6 +60,7 @@ namespace CPS_Counter
             label11.Text = @"0";
             _max1Sec = 0;
             _maxAverage = 0;
+            //blah blah blah
         }
     }
 }
