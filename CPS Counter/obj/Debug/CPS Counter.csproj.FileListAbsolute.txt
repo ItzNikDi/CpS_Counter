@@ -1,0 +1,10 @@
+C:\Users\Никола\source\repos\CPS Counter\CPS Counter\obj\Debug\CPS Counter.csprojAssemblyReference.cache
+C:\Users\Никола\source\repos\CPS Counter\CPS Counter\obj\Debug\CPS_Counter.Form1.resources
+C:\Users\Никола\source\repos\CPS Counter\CPS Counter\obj\Debug\CPS_Counter.Properties.Resources.resources
+C:\Users\Никола\source\repos\CPS Counter\CPS Counter\obj\Debug\CPS Counter.csproj.GenerateResource.cache
+C:\Users\Никола\source\repos\CPS Counter\CPS Counter\obj\Debug\CPS Counter.csproj.CoreCompileInputs.cache
+C:\Users\Никола\source\repos\CPS Counter\CPS Counter\bin\Debug\CPS Counter.exe.config
+C:\Users\Никола\source\repos\CPS Counter\CPS Counter\bin\Debug\CPS Counter.exe
+C:\Users\Никола\source\repos\CPS Counter\CPS Counter\bin\Debug\CPS Counter.pdb
+C:\Users\Никола\source\repos\CPS Counter\CPS Counter\obj\Debug\CPS Counter.exe
+C:\Users\Никола\source\repos\CPS Counter\CPS Counter\obj\Debug\CPS Counter.pdb
