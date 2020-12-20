@@ -28,7 +28,7 @@ namespace CPS_Counter
         {
             _time++;
             timercountdown.Text = _time.ToString();
-            var calc = _clicks*1.0 / _time;
+            var calc = _clicks / _time;
             chart1.Series["Clicks"].Points.AddXY(_time.ToString(), _clicks2.ToString());
             chart1.Series["Averages"].Points.AddXY(_time.ToString(), calc.ToString(CultureInfo.CurrentCulture));
             label4.Text = calc.ToString(CultureInfo.CurrentCulture);
@@ -60,6 +60,11 @@ namespace CPS_Counter
             label11.Text = @"0";
             _max1Sec = 0;
             _maxAverage = 0;
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Close();
         }
     }
 }
